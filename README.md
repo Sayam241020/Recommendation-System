@@ -22,11 +22,6 @@
 - [Usage](#-usage)
 - [Model Training](#-model-training)
 - [API Reference](#-api-reference)
-- [Configuration](#-configuration)
-- [Documentation](#-documentation)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## 🎯 Overview
@@ -312,4 +307,5 @@ GET /api/health/
 ```
 
 </div>
+
 
