@@ -2,15 +2,6 @@
 
 > A production-ready, AI-powered movie recommendation system built with Django and advanced machine learning. Scalable from thousands to millions of movies.
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-6.0-green.svg)](https://djangoproject.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
----
-
-![Logo Image](./assets/images-for-readme/Logo.png)
-
----
 
 ## 📑 Table of Contents
 
@@ -307,5 +298,6 @@ GET /api/health/
 ```
 
 </div>
+
 
 
